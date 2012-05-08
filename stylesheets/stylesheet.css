@@ -239,6 +239,12 @@ table {
   margin-bottom: 20px;
   text-align: left;
  }
+ 
+ table.header_info {
+  border: 0px;
+  text-align: center;
+  
+ }
 
 th {
   font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
