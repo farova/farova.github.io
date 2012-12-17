@@ -1,1 +1,5 @@
-console.log('This would be the main JS file.');
+function displayContainer(containerId)
+{
+    $(".container").hide();
+    $("#"+containerId).show();
+}
